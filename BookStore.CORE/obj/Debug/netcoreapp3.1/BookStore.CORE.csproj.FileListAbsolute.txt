@@ -1,0 +1,9 @@
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\bin\Debug\netcoreapp3.1\BookStore.CORE.deps.json
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\bin\Debug\netcoreapp3.1\BookStore.CORE.dll
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\bin\Debug\netcoreapp3.1\BookStore.CORE.pdb
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\obj\Debug\netcoreapp3.1\BookStore.CORE.AssemblyInfoInputs.cache
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\obj\Debug\netcoreapp3.1\BookStore.CORE.AssemblyInfo.cs
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\obj\Debug\netcoreapp3.1\BookStore.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\obj\Debug\netcoreapp3.1\BookStore.CORE.dll
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\obj\Debug\netcoreapp3.1\BookStore.CORE.pdb
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.CORE\obj\Debug\netcoreapp3.1\BookStore.CORE.csprojAssemblyReference.cache

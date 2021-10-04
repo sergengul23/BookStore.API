@@ -1,0 +1,15 @@
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.CORE.dll
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.AssemblyInfoInputs.cache
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.AssemblyInfo.cs
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.csprojAssemblyReference.cache
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.DATA.deps.json
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.DATA.runtimeconfig.json
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.DATA.runtimeconfig.dev.json
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.DATA.dll
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.DATA.pdb
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\bin\Debug\netcoreapp3.1\BookStore.CORE.pdb
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.csproj.CopyComplete
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.dll
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.pdb
+C:\Users\Sergen\Desktop\BookStore.API\BookStore.DATA\obj\Debug\netcoreapp3.1\BookStore.DATA.genruntimeconfig.cache
